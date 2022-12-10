@@ -9,3 +9,4 @@ dobro_area_quadrado = 2 * area_quadrado
 
 print(f'Área do quadrado = {area_quadrado:.1f}')
 print(f'O dobro da área do quadrado = {dobro_area_quadrado:.1f}')
+
