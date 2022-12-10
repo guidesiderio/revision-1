@@ -1,2 +1,2 @@
 # revision-1
- Exercícios de revisão - Estrutura Sequencial e condicionais
+ Exercícios de revisão - Estrutura Sequencial e Condicionais
