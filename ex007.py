@@ -9,11 +9,11 @@ b = float(valor2)
 c = float(valor3)
 
 maior = 0
-if a > b and a > c:
+if a >= b and a >= c:
     maior = a
-elif b > a and b > c:
+elif b >= a and b >= c:
     maior = b
-else:
+elif c >= a and c >= b:
     maior = c
 
 print(f'O maior valor é: {maior}')
