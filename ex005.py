@@ -10,3 +10,4 @@ horas_trabalhadas_mes_float = float(horas_trabalhadas_mes)
 salario = ganho_hora_float * horas_trabalhadas_mes_float
 
 print(f'O seu salário é igual a R$ {salario:.2f}')
+
