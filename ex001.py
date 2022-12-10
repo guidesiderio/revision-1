@@ -12,3 +12,4 @@ nota4_float = float(nota4)
 media = (nota1_float + nota2_float + nota3_float + nota4_float) / 4
 
 print(f'Média = {media:.2f}')
+
